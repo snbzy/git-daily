@@ -20,7 +20,7 @@ const appendToLogs = (logFilePath) => {
 
 // 提交更改
 const commitChanges = async () => {
-  const logFilePath = path.join('./logs.txt', 'logs');
+  const logFilePath = path.join('.', 'logs');
 
   try {
     // 将当前日期写入 logs 文件
