@@ -1,5 +1,5 @@
 1. 安装所需依赖
-首先，确保你已经安装了 Node.js 和 Git。
+首先，确保你已经安装了 Node.js 和 Git。2
 
 在项目根目录下，初始化一个 Node.js 项目并安装 simple-git（Git 操作库）。
 
